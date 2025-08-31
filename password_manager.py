@@ -7,6 +7,8 @@
 # method called is_correct that receives a string and returns a boolean True or False 
 # depending on whether the string is equal to the current password or not. 
 
+# this is a test for checking if Jira connects
+
 class Password_manager:
     def __init__(self, initial_password):
         # old_passwords holds all passwords, with the current one at the end.
